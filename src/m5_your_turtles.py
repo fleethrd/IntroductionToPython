@@ -30,7 +30,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 ########################################################################
 import rosegraphics as rg
 
-# define variables
+# define constants
 speed = 10
 size = 100
 thickness = 3
