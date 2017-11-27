@@ -74,6 +74,12 @@ matt.backward(50)
 matt.left(90)
 matt.forward(50)
 
+dave.pen = rg.Pen('green', 10)
+dave.left(90)
+dave.forward(200)
+matt.pen = rg.Pen('blue', 20)
+matt.right(90)
+matt.forward(300)
 
 ########################################################################
 #
@@ -88,12 +94,6 @@ matt.forward(50)
 #   As always, test by running the module.
 #
 ########################################################################
-dave.pen = rg.Pen('green',10)
-dave.left(90)
-dave.forward(200)
-matt.pen = rg.Pen('blue',20)
-matt.right(90)
-matt.forward(300)
 
 
 ########################################################################
