@@ -1,6 +1,4 @@
 print('Hello, World')
-print('Joy to the World')
-print(3607*34227)
 
 ########################################################################
 # This line is a COMMENT -- a note to human readers of this file.
@@ -61,6 +59,8 @@ print(3607*34227)
 #   Look at the Console to be sure that your string printed as expected.
 #
 ########################################################################
+print('Joy to the World')
+
 
 ########################################################################
 #
@@ -75,6 +75,8 @@ print(3607*34227)
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
 ########################################################################
+print(3607 * 34227)
+
 
 ########################################################################
 #
